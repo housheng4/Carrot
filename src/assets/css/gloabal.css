@@ -1,0 +1,48 @@
+/* 全局样式 */
+
+/* 默认样式 */
+html,
+body,
+#app {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    /* min-width: 1366px; */
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+li {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+/* 页面背景图片 */
+.wapper {
+    background: url(../../assets/image/bg.jpg) no-repeat center;
+    background-size: cover;
+    overflow: hidden;
+    min-height: 100vh;
+}
+
+/* 清除浮动 */
+.clearfix:after {
+    content: '.';
+    /*加个点的作用防止低版本浏览器出现空隙*/
+    display: block;
+    clear: both;
+    height: 0;
+    visibility: hidden;
+}
+
+a {
+    cursor: pointer;
+    text-decoration: none; 
+}
+
+
