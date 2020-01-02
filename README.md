@@ -5,6 +5,10 @@
 
 http://111.229.35.70/
 账户和密码：admin 123456
+
+## 技术实现
+Vue全家桶+ElementUI+qs序列化参数+sortable.js拖动排序
+
 ## Project setup
 ```
 npm install
