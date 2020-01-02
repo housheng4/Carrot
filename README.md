@@ -1,6 +1,10 @@
 # carrot
 使用了Vue全家桶做的一个萝卜多招聘网站的后台页面
 
+## 演示地址
+
+http://111.229.35.70/
+账户和密码：admin 123456
 ## Project setup
 ```
 npm install
